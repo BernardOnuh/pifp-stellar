@@ -29,3 +29,5 @@ keeper/data/tasks.json
 
 # Backup configuration (contains sensitive credentials)
 scripts/.env.backup
+config.bat
+node_modules
